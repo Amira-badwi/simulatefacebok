@@ -1,0 +1,105 @@
+p
+{ box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+    }
+    body{
+        background-color:#f0f2f5;
+        
+       
+       
+    }
+    .dform{
+        background-color: rgb(255, 255, 255); height: 340px;margin-top: 100px; border-radius: 10px;
+        box-shadow: 1px 1px 15px  1px  rgba(0, 0, 0, 0.253);
+        padding-bottom: 20px;
+       
+    }
+    form{
+        
+        text-align: center;
+       
+    }
+  
+
+
+h4 {
+    font-size: 15px;
+    color: #5592e2;
+    text-align: left;
+    border-radius: 0px 0px 25px 25px;
+}
+
+
+.add{
+   
+    width: 50px;
+    height: 50px;
+    background-color: #1877f2;
+    display: block;
+    margin-right: 30%;
+    border-radius: 50%;
+   line-height:  40px;
+    color: #f5f6f7;
+    padding-right:10px ;
+    margin-top: 40%;
+    font-size: 49px;
+    margin-bottom: 28%;
+}
+
+    h5{
+        font-size: 26px;
+        font-weight: normal;
+        text-align: center;
+      
+      
+    }
+    .itm{
+        border-radius: 25px;
+        box-shadow: 1px 1px 15px  1px  rgba(0, 0, 0, 0.253);
+        box-sizing: border-box;
+padding: 0px;
+margin-top: 40px;
+height: 180px;
+    }
+   
+    
+    .itm img{
+        border-radius: 25px 25px 0px 0px;
+        height: 70%;
+        width: 100%;
+    }
+   .itm h5{
+    background-color: #ffffff;
+    border-radius: 0px 0px 25px 25px ;
+    height: 30%;
+    line-height: 100%;
+
+
+   }
+    .caption{
+        font-size: 12px;
+        padding-top: 30px;
+        text-align: center;
+    }
+    input{
+        outline: none;
+        border: 1px solid black;
+        border-radius: 5px;
+        height: 50px;
+       
+    }
+  
+    .green{
+        background-color: #42b72a;
+    }
+    input:focus{
+        border: 1px solid rgb(83, 155, 184);
+    }
+.blue{
+    background-color: #1877f2;
+}
+
+    a{
+        text-decoration: none;
+    }
